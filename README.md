@@ -19,6 +19,7 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 # Book
 ### Javascript
 * [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) ou [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) <code>93h de pratique en Javascript</code> :white_check_mark: 0 :x: 0
+* [Javascript eloquent](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) <code>Un livre sur le javascript, pas encore testé pour ma part</code> :white_check_mark: 0 :x: 0
 ### Interview Technique
 * :heart: [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Tout savoir et maitriser l'interview technique</code> :white_check_mark: 1 :x: 0
 
