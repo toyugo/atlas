@@ -8,6 +8,8 @@ This project aim to share material.
 
 https://linkorbook.com :white_check_mark: 1 :x: 0
 <code>Commentary</code> 
+
+- Structure of this file will evolve
   
 # Link
 https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
