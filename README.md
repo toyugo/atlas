@@ -1,7 +1,7 @@
 # Atlas Project
 This project aim to share material.
 - On this repository we will focus on quality and not quantity.
-- Everytime you add a link or material, you can add a commentary.
+- Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - Only add resources that you have used.
 - You can modify directly this readme through github.
 - You can use this standard in example:
