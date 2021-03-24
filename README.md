@@ -6,17 +6,17 @@ This project aim to share material.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
 
-https://linkorbook.com :white_check_mark: 1 :x: 0
-<code>Commentary</code> 
+https://linkorbook.com
+<code>Commentary</code> :white_check_mark: 1 :x: 0
 
 - Structure of this file will evolve
   
 # Link
-https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
-<code>Good resources for markdown on git</code>
+https://docs.gitlab.com/ee/user/markdown.html
+<code>Good resources for markdown on git</code> :white_check_mark: 1 :x: 0
 
-https://example.com :white_check_mark: 1 :x: 0
-<code>Commentary</code> 
+https://example.com
+<code>Commentary</code> :white_check_mark: 1 :x: 0
 
 # Book
 ### Javascript
