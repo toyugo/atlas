@@ -5,12 +5,12 @@ This project goal is to share high quality material.
 - You can modify directly this readme through github.
 - If the material has changed your live add an :heart:.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
-- You can use this standard in example
+- You can use this standard in example.
 
 https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and don't like
 <code>Commentary</code> 
 
-- Structure of this file will evolve
+- Structure of this file will evolve.
   
 # Link
 https://docs.gitlab.com/ee/user/markdown.html
