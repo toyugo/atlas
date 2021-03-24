@@ -20,6 +20,6 @@ https://example.com :white_check_mark: 1 :x: 0
 
 # Book
 ### Javascript
-* [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) ou [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) <code>93h de pratique en Javascript</code> :white_check_mark: 10 :x: 0
+* [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) ou [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) <code>93h de pratique en Javascript</code> :white_check_mark: 0 :x: 0
 ### Interview Technique
-* [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Tout savoir et maitriser l'interview technique</code> :white_check_mark: 10 :x: 0
+* [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Tout savoir et maitriser l'interview technique</code> :white_check_mark: 1 :x: 0
