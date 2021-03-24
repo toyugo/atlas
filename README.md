@@ -4,7 +4,7 @@ This project aim to share material.
 - Everytime you add a link or material, you can add a commentary.
 - Only add resources that you have used.
 - You can modify directly this readme through github.
-
+- You can use this standard <linkorbook><:white_check_mark: 1 :x: 0><commentary between code tag>
 The repository structure is open and can evolve.
 
 # Link
