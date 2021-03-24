@@ -5,7 +5,6 @@ This project aim to share material.
 - You can modify directly this readme through github.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
-https://link.html :white_check_mark: 1 :x: 0 <code>Light commentary<code>
   
 # Link
 https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
