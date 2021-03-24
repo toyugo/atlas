@@ -13,10 +13,9 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 - Structure of this file will evolve.
   
 # Link
-https://docs.gitlab.com/ee/user/markdown.html
+* https://docs.gitlab.com/ee/user/markdown.html
 <code>Good resources for markdown on git</code> :white_check_mark: 1 :x: 0
-
-https://example.com
+* https://example.com
 <code>Commentary</code> :white_check_mark: 1 :x: 0
 
 # Book
