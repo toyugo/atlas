@@ -9,6 +9,6 @@ The repository structure is open and can evolve.
 
 # Link
 https://docs.gitlab.com/ee/user/markdown.html
-<code>Good resources for markdown on git<code> [x]
+<code>Good resources for markdown on git<code>[x]
 
 # Book
