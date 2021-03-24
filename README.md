@@ -1,5 +1,5 @@
 # Atlas Project
-This project aim to share material.
+This project goal is to share high quality material.
 - On this repository we will focus on quality and not quantity.
 - Only add resources that you have used.
 - You can modify directly this readme through github.
