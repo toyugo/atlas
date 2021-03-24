@@ -24,6 +24,6 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 * :heart: [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Tout savoir et maitriser l'interview technique</code> :white_check_mark: 1 :x: 0
 
 # Tools
-* https://scanlibs.com <code>Plein de livres</code> :white_check_mark: 0 :x: 0
+* https://scanlibs.com <code>Plein de livres</code> :white_check_mark: 1 :x: 0
 * https://github.com/aforarup/interview  <code>Repo ayant plein de livres sur l'interview technique</code> :white_check_mark: 1 :x: 0
 * https://duckduckgo.com <code>Search engine which gives others results than google</code> :white_check_mark: 0 :x: 0
