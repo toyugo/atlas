@@ -16,7 +16,7 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 * https://docs.gitlab.com/ee/user/markdown.html
 <code>Good resources for markdown on git</code> :white_check_mark: 1 :x: 0
 ## Web scrapping
-* http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/ <code>Clear step by step guide</code> :white_check_mark: 1 :x: 0
+* [Advanced Scraping - Form Submission](http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/) <code>Clear step by step guide</code> :white_check_mark: 1 :x: 0
 
 # Book
 ### Javascript
