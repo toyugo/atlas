@@ -31,3 +31,4 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 * https://scanlibs.com <code>A lot of books</code> :white_check_mark: 1 :x: 0
 * https://github.com/aforarup/interview  <code>Repository of books about technical interview and other stuffs</code> :white_check_mark: 1 :x: 0
 * https://duckduckgo.com <code>Search engine which gives others results than google</code> :white_check_mark: 0 :x: 0
+* https://playcode.io/new/ <code>Playground online javascript</code> :white_check_mark: 1 :x: 0
