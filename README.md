@@ -3,7 +3,7 @@ This project goal is to share high quality material.
 - On this repository we will focus on quality and not quantity.
 - Only add resources that you have used.
 - You can modify directly this readme through github.
-- if the material has changed your live add an :heart:.
+- If the material has changed your live add an :heart:.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
 
