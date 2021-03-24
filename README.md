@@ -5,13 +5,13 @@ This project aim to share material.
 - You can modify directly this readme through github.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
-- https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
-<code>Good resources for markdown on git</code> 
+https://linkorbook.com :white_check_mark: 1 :x: 0
+<code>Commentary</code> 
   
 # Link
 https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
 <code>Good resources for markdown on git</code>
-https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
-<code>Good resources for markdown on git</code> 
+https://example.com :white_check_mark: 1 :x: 0
+<code>Commentary</code> 
 
 # Book
