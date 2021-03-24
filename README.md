@@ -6,7 +6,7 @@ This project aim to share material.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
 
-https://linkorbook.com :white_check_mark: you try and like :x: you try and don't like
+https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and don't like
 <code>Commentary</code> 
 
 - Structure of this file will evolve
