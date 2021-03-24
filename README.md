@@ -8,5 +8,5 @@ The repository structure can evolve.
 
 # Link
 https://docs.gitlab.com/ee/user/markdown.html
-<code> Good resource for markdown on git <code>
+<code> - Good resource for markdown on git<code>
 # Book
