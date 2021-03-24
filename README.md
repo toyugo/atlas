@@ -26,4 +26,4 @@ https://example.com
 
 # Tools
 * https://scanlibs.com <code>Plein de livres</code> :white_check_mark: 0 :x: 0
-* https://github.com/aforarup/interview  <code>Repo ayant plein de livres sur l'interview technique</code> :white_check_mark: 1 :x: 0
+* 🌟 https://github.com/aforarup/interview  <code>Repo ayant plein de livres sur l'interview technique</code> :white_check_mark: 1 :x: 0
