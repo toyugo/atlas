@@ -6,20 +6,20 @@ This project aim to share material.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example
 
-https://linkorbook.com
-<code>Commentary</code> :white_check_mark: 1 :x: 0
+https://linkorbook.com :white_check_mark: 1 :x: 0
+<code>Commentary</code> 
 
 - Structure of this file will evolve
   
 # Link
-https://docs.gitlab.com/ee/user/markdown.html
-<code>Good resources for markdown on git</code> :white_check_mark: 1 :x: 0
+https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
+<code>Good resources for markdown on git</code>
 
-https://example.com
-<code>Commentary</code> :white_check_mark: 1 :x: 0
+https://example.com :white_check_mark: 1 :x: 0
+<code>Commentary</code> 
 
 # Book
 ### Javascript
-* https://scanlibs.com/complete-javascript-course-build-projects/ <code>93h de pratique en Javascript</code> :white_check_mark: 10 :x: 0
+* [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) ou [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) <code>93h de pratique en Javascript</code> :white_check_mark: 10 :x: 0
 ### Interview Technique
 * [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Tout savoir et maitriser l'interview technique</code> :white_check_mark: 10 :x: 0
