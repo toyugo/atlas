@@ -4,7 +4,8 @@ This project aim to share material.
 - Only add resources that you have used.
 - You can modify directly this readme through github.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
-- You can use this standard in example.
+- You can use this standard in example
+
 https://linkorbook.com :white_check_mark: 1 :x: 0
 <code>Commentary</code> 
   
