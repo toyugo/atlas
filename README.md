@@ -6,7 +6,9 @@ This project aim to share material.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example:
 https://link.html :white_check_mark: 1 :x: 0 <code>Light commentary<code>
+  
 # Link
-https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0 <code>Good resources for markdown on git<code> 
+https://docs.gitlab.com/ee/user/markdown.html :white_check_mark: 1 :x: 0
+<code>Good resources for markdown on git<code> 
 
 # Book
