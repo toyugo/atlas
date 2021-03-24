@@ -25,3 +25,4 @@ https://linkorbook.com :white_check_mark: +1 you try and like :x: +1 you try and
 # Tools
 * https://scanlibs.com <code>Plein de livres</code> :white_check_mark: 0 :x: 0
 * https://github.com/aforarup/interview  <code>Repo ayant plein de livres sur l'interview technique</code> :white_check_mark: 1 :x: 0
+* https://duckduckgo.com <code>Search engine which give others results than google<code> :white_check_mark: 0 :x: 0
