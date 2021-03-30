@@ -15,21 +15,27 @@ https://linkorbook.com <code>Commentary</code>
 * https://docs.gitlab.com/ee/user/markdown.html
 <code>Good resources for markdown on git</code>
 ### Javascript
-* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object <code>Why string can use methods as an object<code> +1 -0
+* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object
+<code>Why string can use methods as an object<code>
 ### Web scrapping
-* [Advanced Scraping - Form Submission](http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/) <code>Clear step by step guide</code> +1 -0
+* [Advanced Scraping - Form Submission](http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/)
+<code>Clear step by step guide</code>
 ### Sql alchemy
-* https://www.codementor.io/@sheena/understanding-sqlalchemy-cheat-sheet-du107lawl <code>Cheat sheet on SQL alchemy</code> +1 -0
+* https://www.codementor.io/@sheena/understanding-sqlalchemy-cheat-sheet-du107lawl
+<code>Cheat sheet on SQL alchemy</code>
 # Book
 ### Javascript
-* [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) or [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) <code>93hours of project </code> +1 -0
-* [Javascript eloquent](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) <code>Book about Javascript</code> +1 -0
+* [Torrent](https://scanlibs.com/complete-javascript-course-build-projects/) or [Udemy](https://www.udemy.com/course/the-complete-javascript-course/
+<code>93hours of project </code>
+* [Javascript eloquent](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+<code>Book about Javascript</code>
 ### Interview Technique
-* :heart: [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf) <code>Master everything about technical interview</code> :white_check_mark: +1 -0
+* :heart: [Cracking interview 4th editions](https://github.com/aforarup/interview/blob/master/Interview%20Books/Cracking%20the%20Coding%20Interview%204th%20edition.pdf)
+<code>Master everything about technical interview</code>
 
 # Tools
-* https://scanlibs.com <code>A lot of books</code> :white_check_mark: +1 -0
-* https://github.com/aforarup/interview  <code>Repository of books about technical interview and other stuffs</code> :white_check_mark: +1 -0
-* https://duckduckgo.com <code>Search engine which gives others results than google</code> :white_check_mark: +1 -0
-* https://playcode.io/new/ <code>Playground online javascript</code> :white_check_mark: +1 -0
-* https://github.com/danistefanovic/build-your-own-x <code>Repository with several little projects on several programming languages</code> +1 -0
+* https://scanlibs.com <code>A lot of books</code>
+* https://github.com/aforarup/interview  <code>Repository of books about technical interview and other stuffs</code>
+* https://duckduckgo.com <code>Search engine which gives others results than google</code>
+* https://playcode.io/new/ <code>Playground online javascript</code>
+* https://github.com/danistefanovic/build-your-own-x <code>Repository with several little projects on several programming languages</code>
