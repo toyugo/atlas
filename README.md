@@ -7,15 +7,15 @@ This project goal is to share high quality material.
 - Everytime you add a link or material, you can add a commentary, long commentary will be delete.
 - You can use this standard in example.
 
-https://linkorbook.com <code>Commentary</code> +1 -0
+https://linkorbook.com <code>Commentary</code>
 
 - Structure of this file will evolve.
   
 # Link
 * https://docs.gitlab.com/ee/user/markdown.html
-<code>Good resources for markdown on git</code> +1 -0
+<code>Good resources for markdown on git</code>
 ### Javascript
-* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object <code>Why string can use methods as an object +1 -0
+* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object <code>Why string can use methods as an object<code> +1 -0
 ### Web scrapping
 * [Advanced Scraping - Form Submission](http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/) <code>Clear step by step guide</code> +1 -0
 ### Sql alchemy
