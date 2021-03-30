@@ -14,7 +14,7 @@ https://linkorbook.com <code>Commentary</code>
 # Link
 * https://docs.gitlab.com/ee/user/markdown.html<code>Good resources for markdown on git</code>
 ### Javascript
-* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object<code>Why string can use methods as an object<code>
+* https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object<code>Why string can use methods as an object</code>
 ### Web scrapping
 * [Advanced Scraping - Form Submission](http://jonathansoma.com/lede/foundations-2017/classes/adv-scraping/advanced-scraping-form-submission/)<code>Clear step by step guide</code>
 ### Sql alchemy
