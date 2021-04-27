@@ -13,6 +13,11 @@ https://linkorbook.com <code>Commentary</code>
   
 # Link
 * https://docs.gitlab.com/ee/user/markdown.html<code>Good resources for markdown on git</code>
+### HTML
+* https://htmlcheatsheet.com/ <code>Optimal cheat sheet website for HTML/CSS/JS
+### CSS
+* https://coolors.co/ <code>Find the perfect color scheme for your website !
+* https://www.grabient.com/ <code>Very cool gradient generator
 ### Javascript
 * https://stackoverflow.com/questions/3907613/how-is-a-javascript-string-not-an-object<code>Why string can use methods as an object</code>
 ### Web scrapping
